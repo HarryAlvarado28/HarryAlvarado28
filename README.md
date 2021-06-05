@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # ¡Hola!👋 Yo soy Harry Alvarado.
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web, Frontend y Backend.
+- 👨🏾‍💻 Desarrollo Web (FullStack).
+- 🌱 Actualmente estoy aprendiendo Flutter, DevOps (Jenkins, Travis CI, Docker, Swarm, Kubernete, AWS).
+- 🥸 Algunas de mis habilidades NodeJS, Java, Go, Angular, Ionic, Python, Firebase, GCP y otros.
 - 💬 Pregúntame sobre lo que quieras, bueno, sobre esto.
-- :wink: No olvides seguirme [Twitter](https://twitter.com/harryalvarado28)
+- :wink: No olvides seguirme [Twitter](https://twitter.com/harryalvarado28) o [LinkedIn](https://www.linkedin.com/in/harryalvarado28/).
 - :computer: Me encanta la programación.
 ## ⚡ Tecnologías
 
