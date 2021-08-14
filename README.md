@@ -40,4 +40,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harryalvarado28?color=%231DA1F2&label=Harry%20Alvarado&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/harryalvarado28)
 [![GitHub followers](https://img.shields.io/github/followers/harryalvarado28?color=%23181717&label=Harry%20Alvarado&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/harryalvarado28)
+<a href="https://www.linkedin.com/in/harryalvarado28/" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn de Harry" width="28" height="28">
+</a>
 
