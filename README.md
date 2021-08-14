@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/badge/Harry%20Alvarado-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harryalvarado28/)
 
 ## 🎧 Last song
-[![Spotify](https://spotify-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/user/12146443232)
+[![Spotify](https://spotify-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/2nCJa8TM2cj8qYqGzGiJ03?si=834f9a9da781487c)
