@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola!👋 Yo soy Harry Alvarado.
+# ¡Hello World!👋 .
 - 👨🏾‍💻 Desarrollo Web (FullStack).
 - 🌱 Actualmente estoy aprendiendo Flutter, DevOps (Jenkins, Travis CI, Docker, Swarm, Kubernete, AWS).
 - :fire: Algunas de mis habilidades NodeJS, Java, Go, Angular, Ionic, Python, Firebase, GCP y otros.
 - :speech_balloon: Pregúntame sobre lo que quieras, bueno, sobre esto.
-- :wink: No olvides seguirme [Twitter](https://twitter.com/harryalvarado28) o [LinkedIn](https://www.linkedin.com/in/harryalvarado28/).
 - :computer: Me encanta la programación.
+
+
+
 ## ⚡ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,3 +35,9 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+## 🏂 Estoy aquí!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/harryalvarado28?color=%231DA1F2&label=Harry%20Alvarado&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/harryalvarado28)
+[![GitHub followers](https://img.shields.io/github/followers/harryalvarado28?color=%23181717&label=Harry%20Alvarado&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/harryalvarado28)
+
