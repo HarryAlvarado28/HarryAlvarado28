@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 
 ## 🎧 Last song
 [![Spotify](https://spotify-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/2nCJa8TM2cj8qYqGzGiJ03?si=834f9a9da781487c)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harryalvarado28&label=Profile%20views&color=0e75b6&style=flat" alt="Harry Alvarado" /> </p>
+
