@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # ¡Hello World!👋 .
 - 👨🏾‍💻 Desarrollo Web (FullStack).
-- 🌱 Actualmente estoy aprendiendo Flutter, DevOps (Jenkins, Travis CI, Docker, Swarm, Kubernete, AWS).
-- :fire: Algunas de mis habilidades NodeJS, Java, Go, Angular, Ionic, Python, Firebase, GCP y otros.
+- 🌱 Actualmente estoy aprendiendo Flutter, DevOps (Jenkins, Travis CI, Docker, Swarm, Kubernete, GCP, AWS).
+- :fire: Algunas de mis habilidades NodeJS, Java, Go, Angular, Ionic, Python, Firebase y otros.
 - :speech_balloon: Pregúntame sobre lo que quieras, bueno, sobre esto.
 - :computer: Me encanta la programación.
 
