@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/harryalvarado28?color=%23181717&label=Harry%20Alvarado&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/harryalvarado28)
 [![Twitter Follow](https://img.shields.io/badge/Harry%20Alvarado-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harryalvarado28/)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HarryAlvarado28.png)](https://tryhackme.com/p/HarryAlvarado28)
+
+
 ## 🎧 Last song
 [![Spotify](https://spotify-playing-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/2nCJa8TM2cj8qYqGzGiJ03?si=834f9a9da781487c)
 
